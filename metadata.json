@@ -1,0 +1,8 @@
+{
+  "name": "Holbox Ice & Water Hub",
+  "description": "Sistema de gestión logística de última milla para la distribución de hielo y agua en Isla Holbox. Diseñado para operación de alto ritmo en campo con control financiero y seguimiento en tiempo real.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
